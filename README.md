@@ -26,10 +26,11 @@ chmod +x create_environment.sh
 - Create a directory named `submission_reminder_{yourName}`  
 - Create the required subdirectories and files:
   - `config/config.env`
-  - `scripts/reminder.sh`
-  - `scripts/functions.sh`
-  - `scripts/startup.sh` (created by you)
-  - `data/submissions.txt`
+  - `app/reminder.sh`
+  - `modules/functions.sh`
+  - `startup.sh`
+  - `assets/submissions.txt`
+
 - Add executable permissions to all `.sh` files
 
 ---
