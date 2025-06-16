@@ -78,19 +78,6 @@ submission_reminder_{yourName}/
 
 ---
 
-## 🌿 Git Workflow
-
-Your project must use two branches:
-- `feature/setup` → for development and testing
-- `main` → for final, production-ready code
-
-**✅ Final `main` branch should include only:**
-- `create_environment.sh`
-- `copilot_shell_script.sh`
-- `README.md`
-
----
-
 ## 💡 Credits
 **ALU Student, Bonane NIYIGENA**  
 Software Engineer
